@@ -1,0 +1,48 @@
+#masthead{
+    background-color: rgba(87, 87, 87, 0.60);
+    backdrop-filter: saturate(220%) blur(36px);
+}
+#contentContainer {
+    background-color: rgba(255, 255, 255, 0);
+}
+#guide-wrapper {
+    background-color: rgba(255, 255, 255, 0);
+}
+#guide-content.ytd-app.style-scope {
+    background-color: rgba(87, 87, 87, 0.60);
+    backdrop-filter: saturate(220%) blur(36px);
+}
+.gstl_50.sbdd_a, ytd-multi-page-menu-renderer.ytd-popup-container{
+    background: transparent;
+}
+
+#sections.ytd-multi-page-menu-renderer {
+     background-color: rgba(87, 87, 87, 0.60);
+    backdrop-filter: saturate(220%) blur(36px);
+}
+
+div.sbdd_b {
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px;
+}
+div.sbsb_a {
+    background-color: rgba(87, 87, 87, 0.60);
+    backdrop-filter: saturate(220%) blur(36px);
+}
+li.sbsb_c.gsfs {
+    color: #f6f6f6;
+}
+
+li.sbsb_c.gsfs {
+    color: #f6f6f6;
+}
+li.sbsb_c.gsfs:hover {
+    background-color: #333;
+}
+li.sbsb_c.gsfs:last-child {
+    display: none;
+}
+
+yt-page-navigation-progress.ytd-app {
+    z-index: 2000;
+}
