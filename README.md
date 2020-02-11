@@ -1,5 +1,5 @@
 # Acrylic-Blur-Theme-For-YouTube
-This is snippet of CSS styles which adds some really great blur effects to YouTube website.
+This is snippet of CSS styles which adds some really great blur effects to YouTube website. (Currently this theme only works with dark youtube theme, You can enable it from  youtube setting)
 To make it work you have to follow following steps:
 
 1. Install youtube inhancer in your browser. Link: https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle
