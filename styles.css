@@ -42,7 +42,6 @@ li.sbsb_c.gsfs:hover {
 li.sbsb_c.gsfs:last-child {
     display: none;
 }
-
-yt-page-navigation-progress.ytd-app {
+yt-page-navigation-progress.ytd-app.style-scope {
     z-index: 2000;
 }
