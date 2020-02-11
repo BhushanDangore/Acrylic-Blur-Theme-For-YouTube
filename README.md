@@ -11,3 +11,8 @@ To make it work you have to follow following steps:
 4. Click on Save.
 
 5. Enjoy YouTubing...
+
+<img src="/images/screenshot3-min.png"/>
+<img src="/images/screenshot4-min.png"/>
+<img src="/images/screenshot2-min.png"/>
+<img src="/images/screenshot1-min.png"/>
