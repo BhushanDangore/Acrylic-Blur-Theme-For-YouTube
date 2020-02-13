@@ -16,6 +16,7 @@
 ytd-multi-page-menu-renderer {
      background-color: rgba(87, 87, 87, 0.6);
      backdrop-filter: saturate(150%) blur(100px);
+     box-shadow: 0px 0px 50px 8px #111;
 }
 
 div.sbdd_b {
@@ -35,12 +36,18 @@ ytd-guide-renderer {
     background: transparent;
 }
 ytd-mini-guide-renderer.style-scope.ytd-app{
-    background-color: rgba(87, 87, 87, 0.50);
+    background-color: rgba(87, 87, 87, 0.60);
     backdrop-filter: saturate(100%) blur(36px);
 }
 ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer { 
     background: transparent;
 }
+div.ytp-popup.ytp-settings-menu{
+  background-color: rgba(87, 87, 87, 0.5);
+  backdrop-filter: saturate(150%) blur(40px);
+  box-shadow: 0px 0px 50px 8px #111;
+}
+
 li.sbsb_c.gsfs {
     color: #f6f6f6;
 }
@@ -49,6 +56,9 @@ li.sbsb_c.gsfs {
     color: #f6f6f6;
 }
 li.sbsb_d{
+    background-color: #333;
+}
+li.sbsb_c.gsfs:hover {
     background-color: #333;
 }
 li.sbsb_c.gsfs:last-child {
