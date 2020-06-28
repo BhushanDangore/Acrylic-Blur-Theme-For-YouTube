@@ -206,7 +206,7 @@ ytd-rich-item-renderer:hover {
     background: var(--scrollBar);
     border-radius: 10px;
 }
-/* Handle on hover */
+/* Handle on hover     */
 ::-webkit-scrollbar-thumb:hover {
     background: var(--themeDark);
 }
