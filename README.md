@@ -4,7 +4,6 @@ To make it work you have to follow following steps:
 
 Google Web store link: https://chrome.google.com/webstore/detail/acrylic-blur-for-youtube/lhdgceckgkfnpcefggkklinlhpchjjap?hl=en
 
-<img src="/images/screenshot3-min.png"/>
-<img src="/images/screenshot4-min.png"/>
-<img src="/images/screenshot2-min.png"/>
-<img src="/images/screenshot1-min.png"/>
+<img src="/images/unnamed (2).jpg"/>
+<img src="/images/unnamed (1).jpg"/>
+<img src="/images/unnamed.jpg"/>
